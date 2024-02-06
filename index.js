@@ -1,5 +1,5 @@
 const fs = require("fs");
-const inquirer = require('fix-esm').require('inquirer');
+const inquirer = require('inquirer');
 const path = require('path');
 const generateSvgLogo = require("./utils/generateSvgLogo");
 
